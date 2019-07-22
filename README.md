@@ -1,2 +1,2 @@
 # linawork
-for workmaven的一些学习项目
+maven的一些学习项目
